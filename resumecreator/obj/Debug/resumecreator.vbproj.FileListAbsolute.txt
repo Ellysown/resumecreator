@@ -10,3 +10,9 @@ C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreato
 C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.exe
 C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.xml
 C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.pdb
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\itextsharp.dll
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\itextsharp.xml
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.vbproj.CopyComplete
