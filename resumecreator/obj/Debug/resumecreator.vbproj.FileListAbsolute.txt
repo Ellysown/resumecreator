@@ -1,0 +1,12 @@
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\resumecreator.exe.config
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\resumecreator.exe
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\resumecreator.pdb
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\bin\Debug\resumecreator.xml
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.vbproj.AssemblyReference.cache
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.Form1.resources
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.Resources.resources
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.vbproj.GenerateResource.cache
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.vbproj.CoreCompileInputs.cache
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.exe
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.xml
+C:\Users\Chellsy\source\repos\resumecreator\resumecreator\obj\Debug\resumecreator.pdb
