@@ -22,5 +22,25 @@ resumecreator
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:resumecreator.My.Resources.Resources._279087731_1484297928693818_5215010758771154959_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resumecreator.My.Resources.Resources.image_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resumecreator.My.Resources.Resources.image_removebg_preview__14_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:resumecreator.My.Resources.Resources.image_removebg_preview__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
